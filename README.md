@@ -23,7 +23,7 @@
 ## Output:
 ![exp6](https://github.com/SivaChandranR07/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113497395/3083bf91-f13f-477f-b08b-674ef64a473a)
 
-### Name: Sva Chandran R
+### Name: Siva Chandran R
 ### Register Number: 212222240099
 
 ## Result:
